@@ -1,0 +1,29 @@
+print("I have information for the following planets:\n")
+
+print("   1. Venus   2. Mars    3. Jupiter")
+print("   4. Saturn  5. Uranus  6. Neptune\n")
+#------------------------------------------------ 
+weight = 185
+planet = 6
+#------------------------------------------------
+Venus = weight*0.91
+Mars = weight*0.38
+Jupiter = weight*2.34
+Saturn = weight*1.06
+Uranus = weight*0.92
+Neptune = weight*1.19
+#------------------------------------------------
+# Write an if statement below:
+if planet == 1:
+  print("Weight on Venus" , Venus)
+if planet == 2:
+  print("Weight on Mars" , Mars)
+if planet == 3:
+  print("Weight on Jupiter" , Jupiter)
+if planet == 4:
+  print("Weight on Saturn" , Saturn)
+if planet == 5:
+  print("Weight on Uranus" , Uranus)
+if planet == 6:
+  print("Weight on Neptune" , Neptune)
+#------------------------------------------------
