@@ -1,2 +1,2 @@
-# Space.py
-Space Boxer weight calculations
+# Space Boxer
+Space Boxer weight calculations on different planets, with varying graviational pulls.
